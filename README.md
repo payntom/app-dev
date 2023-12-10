@@ -1,7 +1,5 @@
-# app-dev
- My first repository
 
-## My favorite series
+# My favorite series
 
 :sparkles: **Alchemy of Souls** :sparkles:
 
