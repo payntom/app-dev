@@ -10,7 +10,7 @@
 ## :exclamation: **Overview**  :exclamation:
 : "Alchemy of Souls" is a mesmerizing Korean fantasy series that delves into the mystical realms of alchemy, magic, forbidden spells, and the human soul. Created by the Hong Sisters, the series offers a unique blend of enchanting storytelling and visually stunning cinematography.  Set in the fictional land of Daeho, this series tells the story of young mages grappling with their destinies, intertwined with the powerful and forbidden magic of alchemy of souls.
 
-### :star2: **Characters driven by destiny:** :star2:
+## :star2: **Characters driven by destiny:** :star2:
 
 :diamonds: **Naksu**
 : a formidable sorceress trapped in the body of a blind woman, seeks revenge for a past betrayal.
