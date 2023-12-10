@@ -1,4 +1,4 @@
-![Alchemy_of_Souls_](https://github.com/payntom/app-dev/assets/153361250/4b1854d6-ec2f-4851-a580-084504f395c3)# app-dev
+# app-dev
  My first repository
 
 ## My favorite series
