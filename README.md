@@ -1,11 +1,11 @@
-# app-dev
+![Alchemy_of_Souls_](https://github.com/payntom/app-dev/assets/153361250/4b1854d6-ec2f-4851-a580-084504f395c3)# app-dev
  My first repository
 
 ## My favorite series
 
 :sparkles: **Alchemy of Souls** :sparkles:
 
-![Alchemy of Souls Poster](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt20859920%2F&psig=AOvVaw1G8R-Oyx0S-zJk5Qi2Qmgn&ust=1702265881112000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLif8OL4g4MDFQAAAAAdAAAAABAD)
+![Alchemy_of_Souls_](https://github.com/payntom/app-dev/assets/153361250/aa77e855-d824-4e10-9801-141bd38d5de8)
 
 ## :exclamation: **Overview**  :exclamation:
 : "Alchemy of Souls" is a mesmerizing Korean fantasy series that delves into the mystical realms of alchemy, magic, forbidden spells, and the human soul. Created by the Hong Sisters, the series offers a unique blend of enchanting storytelling and visually stunning cinematography.  Set in the fictional land of Daeho, this series tells the story of young mages grappling with their destinies, intertwined with the powerful and forbidden magic of alchemy of souls.
@@ -18,7 +18,7 @@
 :diamonds: **Jang Uk**
 : a young master from a prestigious family, struggles with a secret that prevents him from mastering magic. Their paths collide in a twist of fate, leading to an unlikely partnership that will change their lives forever.
 
-# 🌠: **Genre** 🌠
+## 🌠: **Genre** 🌠
 :Alchemy of Souls masterfully blends elements of fantasy, romance, and action to create a captivating and diverse narrative. From thrilling sword fights showcasing the prowess of skilled mages to heart-wrenching moments of love and loss that tug at the heartstrings, the series offers a complete emotional spectrum. This unique blend of genres keeps the audience engaged, ensuring that each episode brings a new twist or turn, leaving viewers eager for more.
 
 ## 💗 **Reasons to Love Alchemy of Souls** 💗:
