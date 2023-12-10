@@ -18,10 +18,10 @@
 :diamonds: **Jang Uk**
 : a young master from a prestigious family, struggles with a secret that prevents him from mastering magic. Their paths collide in a twist of fate, leading to an unlikely partnership that will change their lives forever.
 
-### :star2: **Genre** :star2:
+# 🌠: **Genre** 🌠
 :Alchemy of Souls masterfully blends elements of fantasy, romance, and action to create a captivating and diverse narrative. From thrilling sword fights showcasing the prowess of skilled mages to heart-wrenching moments of love and loss that tug at the heartstrings, the series offers a complete emotional spectrum. This unique blend of genres keeps the audience engaged, ensuring that each episode brings a new twist or turn, leaving viewers eager for more.
 
-### :star2: **Reasons to Love Alchemy of Souls:** :star2:
+## 💗 **Reasons to Love Alchemy of Souls** 💗:
 
 :diamonds: **Unique Blend of Genres:** 
 
